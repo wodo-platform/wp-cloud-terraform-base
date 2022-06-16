@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="http://wodoplatform.io/" target="blank"><img src="https://github.com/wodo-platform/wodo-docs/blob/main/images/wodo_logo.png" width="320" alt="Wodo Platform" /></a>
+  <a href="http://wodoplatform.io/" target="blank"><img src="https://github.com/wodo-platform/wodo-branding/blob/main/src/img/branding/logo_purple.png" width="320" alt="Wodo Platform" /></a>
 </p>
 
 <h2> Wodo Platform Cloud Infrastructure Base Terraform Catalog </h2>
